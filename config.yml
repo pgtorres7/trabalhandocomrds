@@ -1,0 +1,6 @@
+database:
+  host: "dbaulaunifaat-instance-1.cfygeg4cig34.us-east-1.rds.amazonaws.com"
+  port: 5432
+  user: "postgres"
+  password: "aulaUniFAAT"
+  dbname: "northwind"
